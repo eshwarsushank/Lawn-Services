@@ -4,6 +4,7 @@ import Aboutus from "./pages/Aboutus"
 import Services from "./pages/Services"
 import Home from "./pages/home"
 import "./styles.css"
+import SignupForm from "./pages/Signupform"
 import SignUp from "./pages/signup"
 function App(){
   let Component
@@ -20,6 +21,9 @@ function App(){
       break
     case "/signup.js":
       Component=<SignUp/>
+      break
+    case "/Signupform.js":
+      Component=<SignupForm/>
       break
     default:
       console.log(window.location.pathname)

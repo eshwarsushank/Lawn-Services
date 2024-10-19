@@ -3,7 +3,10 @@ export default function SignUp(){
     
       <p> Username</p> <input type = "Username" ></input>
       <p> password</p> <input type = "password" ></input>
-      <center><p>Not a member? </p></center>SignUp
+      <center><p>Not a member? </p></center>
+      <center>
+        <a href="/Signupforms.js">SignUp</a>
+      </center>
 
       </>
 )
