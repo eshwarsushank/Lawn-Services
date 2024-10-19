@@ -8,6 +8,7 @@ export default function SignUp(){
         <a href="/Signupform.js">SignUp</a>
       </center>
         <p>THIS IS JYOTHIKA</p>
+        <p>This is Jaya Eswar Sushank</p>
       </>
 )
 
