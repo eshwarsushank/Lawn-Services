@@ -1,5 +1,5 @@
 export default function Services(){
     return(
-        <h1>services</h1>
+        <h1>Services</h1>
     )
 }
