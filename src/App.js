@@ -22,10 +22,12 @@ function App(){
     case "/signup.js":
       Component=<SignUp/>
       break
-    case "/Signupform.js":
+    case "/Signupforms.js":
+      console.log(window.location)
       Component=<SignupForm/>
       break
     default:
+      console.log(Component)
       console.log(window.location.pathname)
   }
   return (<> 

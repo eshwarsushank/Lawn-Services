@@ -5,7 +5,7 @@ export default function SignUp(){
       <p> password</p> <input type = "password" ></input>
       <center><p>Not a member? </p></center>
       <center>
-        <a href="/Signupforms.js">SignUp</a>
+        <a href="/Signupform.js">SignUp</a>
       </center>
 
       </>
